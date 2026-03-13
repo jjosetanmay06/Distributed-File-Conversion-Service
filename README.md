@@ -111,6 +111,7 @@ converted/
 ## Example
 
 Input:
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/9d5c3112-6863-4409-9752-367905380577" />
 
 ```
 Cosmic_Cliffs.jpg
@@ -121,6 +122,8 @@ Output:
 ```
 converted/Cosmic_Cliffs.png
 ```
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/ab18d244-32b0-49e6-a307-b83272800ac9" />
+
 
 ---
 
