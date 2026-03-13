@@ -122,7 +122,8 @@ Output:
 ```
 converted/Cosmic_Cliffs.png
 ```
-<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/ab18d244-32b0-49e6-a307-b83272800ac9" />
+![WhatsApp Image 2026-03-13 at 2 13 58 PM](https://github.com/user-attachments/assets/bf059633-15de-4023-bea0-50ed6e6a0d21)
+
 
 
 ---
