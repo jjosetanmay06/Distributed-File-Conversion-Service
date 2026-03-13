@@ -1,0 +1,38 @@
+# Python bytecode
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+
+venv/
+env/
+.venv/
+
+# macOS system files
+
+.DS_Store
+
+# Windows system files
+
+Thumbs.db
+
+# Converted output images
+
+converted/
+
+# Logs
+
+*.log
+
+# IDE files
+
+.vscode/
+.idea/
+
+# Temporary files
+
+*.tmp
+*.temp
